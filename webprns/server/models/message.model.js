@@ -15,10 +15,5 @@ const Message = mongoose.model("Message", new mongoose.Schema({
 
 module.exports = Message;
 
-/*
-content 
-date
-author
-who read
-*/
+
 
